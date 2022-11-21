@@ -1,0 +1,14 @@
+__tests__
+.github  
+.vscode
+src
+.babelrc
+.prettierignore
+copyStyles.mjs
+jest-config.js
+jest-puppeteer.config.js
+nwb.config.js
+pnpm-lock.yaml
+react-tabulator.code-workspace
+tsconfig.json
+tslint.json
