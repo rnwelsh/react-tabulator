@@ -3,7 +3,7 @@ import { render, findDOMNode } from 'react-dom';
 import { clone } from '../Utils';
 // import { parse, format } from 'date-fns';
 // import ReactTags from 'react-tag-autocomplete';
-const ReactTags = require('react-tag-autocomplete');
+const ReactTags = require('@rnwelsh/react-tag-autocomplete');
 
 const DEFAULT_DATE_INPUT_FORMAT = 'yyyy-MM-dd';
 
